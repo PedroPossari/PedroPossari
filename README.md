@@ -21,7 +21,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-Atualmente estou me especializando em **Quality Assurance (QA)**, trabalhando como **Quality Assurance** na **DBC**. Tenho experiência em automação de testes com **Selenium**, **Cypress**, **RestAssured**, e também com testes manuais utilizando **Postman**. Estou sempre em busca de novas ferramentas e métodos para garantir a qualidade de software, utilizando boas práticas de desenvolvimento e testes ágeis.
+Atualmente estou me especializando em **Quality Assurance (QA)**. Tenho experiência em automação de testes com **Selenium**, **Cypress**, **RestAssured**, e também com testes manuais utilizando **Postman**. Estou sempre em busca de novas ferramentas e métodos para garantir a qualidade de software, utilizando boas práticas de desenvolvimento e testes ágeis.
 
 Estou totalmente focado em entregar **software de qualidade** para melhorar a experiência dos usuários finais e aumentar a confiabilidade dos sistemas.
 
