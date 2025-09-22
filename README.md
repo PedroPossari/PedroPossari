@@ -1,4 +1,4 @@
-## Olá, eu sou Pedro Possari!
+## 👋 Olá, eu sou Pedro Possari!  
 
 <div align="center">
   <a href="https://github.com/PedroPossari">
@@ -19,33 +19,43 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 🧑‍💻 Sobre mim  
 
-Atualmente estou me especializando em **Quality Assurance (QA)**. Tenho experiência em automação de testes com **Selenium**, **Cypress**, **RestAssured**, e também com testes manuais utilizando **Postman**. Estou sempre em busca de novas ferramentas e métodos para garantir a qualidade de software, utilizando boas práticas de desenvolvimento e testes ágeis.
+Sou apaixonado por **Qualidade de Software** e atualmente me especializo como **Quality Assurance Engineer**.  
+Tenho experiência em **automação de testes (Selenium, Cypress, RestAssured)** e em **testes manuais/exploratórios com Postman**.  
 
-Estou totalmente focado em entregar **software de qualidade** para melhorar a experiência dos usuários finais e aumentar a confiabilidade dos sistemas.
+Busco sempre aplicar **boas práticas de QA**, unindo fundamentos de desenvolvimento e métodos ágeis para entregar **software confiável, seguro e de qualidade**.  
 
 ---
 
-### 🔧 Tecnologias que uso
+### 🔧 Tecnologias e Ferramentas  
 
-- **Java** (JUnit, RestAssured)
-- **JavaScript/TypeScript** (Testes automatizados, Node.js)
-- **Cypress** (Testes End-to-End)
-- **Selenium** (Automação de navegação)
-- **Postman** (Testes de APIs)
-- **RestAssured** (Testes automatizados de APIs)
+✔️ **Back-end & APIs**  
+- Java (JUnit, RestAssured)  
+- C# (testes e APIs REST)  
+- Postman (testes manuais e automatizados)  
+
+✔️ **Front-end & E2E**  
+- Cypress (E2E Testing)  
+- Selenium (UI Testing)  
+- JavaScript / TypeScript (testes e automações)  
+
+✔️ **Outros**  
+- Git & GitHub  
+- Metodologias ágeis (Scrum, Kanban)  
+- Relatórios com **Allure Report**  
+
 ---
 
-### 📈 Estatísticas
+### 📈 Estatísticas  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropossari&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropossari&show_icons=true&count_private=true&theme=dracula"/>
 </div>
 
 ---
 
-### 📬 Como me encontrar
+### 📬 Como me encontrar  
 
-- **GitHub**: [PedroPossari](https://github.com/PedroPossari)
-- **LinkedIn**: [Pedro Possari](https://www.linkedin.com/in/pedro-possari/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-possari/)  
+- 💻 [GitHub](https://github.com/PedroPossari)  
